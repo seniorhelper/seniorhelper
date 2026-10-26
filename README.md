@@ -16,4 +16,4 @@ JavaScript · Three.js / WebXR · Supabase (Postgres, Edge Functions) · Claude 
 
 #### Contact
 
-🌐 [eyetoad.com](https://eyetoad.com) · 💼 [LinkedIn](https://www.linkedin.com/company/eye-to-ad-media) · 📞 720-249-6588
+🌐 [eyetoad.com](https://eyetoad.com) · ✉️ [zach@eyetoad.com](mailto:zach@eyetoad.com)
